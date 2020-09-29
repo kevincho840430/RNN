@@ -1,0 +1,16 @@
+==================================================
+                     v2-5-rnn                     
+==================================================
+
+ RNN_part2/
+    |--- MNIST.ipynb
+    |--- MNIST_answer.ipynb
+    |--- toy_example_RNN.ipynb
+
+ RNN_part3/
+    |--- LSTM_stock_prediction.ipynb
+    |--- RNN_IMDB.ipynb
+    |--- conv1d_stock_prediction.ipynb
+
+ RNN_part4/
+    |--- seq2seq_Eng2Fra.ipynb
